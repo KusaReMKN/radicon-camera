@@ -1,0 +1,26 @@
+{
+  "name": "radicon-camera",
+  "version": "1.0.0",
+  "description": "らじこんにかめらをのせてはしらせるとたのしい",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KusaReMKN/radicon-camera.git"
+  },
+  "keywords": [
+    "WebRTC"
+  ],
+  "author": "KusaReMKN",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/KusaReMKN/radicon-camera/issues"
+  },
+  "homepage": "https://github.com/KusaReMKN/radicon-camera#readme",
+  "dependencies": {
+    "https": "^1.0.0",
+    "ws": "^8.10.0"
+  }
+}
